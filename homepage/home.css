@@ -1,0 +1,112 @@
+
+/* HomePage */
+#n1_6 {
+	width: 100%;
+	height: 100%;
+	overflow: hidden;
+	background: rgb(255, 255, 255);
+}
+ 
+	/* Line 3 */
+	#n18_12 {
+		left: 1567px;
+		width: 338px;
+		top: 242px;
+		height: 0px;
+	}
+ 
+	/* Rectangle 1 */
+	#n18_14 {
+		background: rgb(252, 167, 1);
+		width: 1905px;
+		top: 132px;
+		height: 53px;
+	}
+ 
+	/* alumni association */
+	#n18_3 {
+		font-family: Poppins;
+		font-size: 30px;
+		font-weight: 400;
+		letter-spacing: 0px;
+		color: rgb(223, 174, 37);
+		vertical-align: middle;
+		justify-content: flex-start;
+		width: 286px;
+		transform: translate(0px, 0px);
+		line-height: 35.1562px;
+		height: 33px;
+		left: 680px;
+		top: 69px;
+	}
+ 
+	/* Seal_of_Goa 1 */
+	#n18_15 {
+		background-image: url("https://s3-alpha-sig.figma.com/img/8c88/955e/7fa0a29688364514d390096c180cf6fe?Expires=1579478400&Signature=ODJKycUGgRTFE-F117hwDE1nLiXb~ELD-eN5TYGSrZ4aDbQVgRS38AvdoAArhpHxx4orABf~N7rxgdV-7tlpUFciDpIemVf5gaVL5Dz3xbxOeP8g~dKJVIA05zJmcdlWCIwk8uiBvfvLIvcDwoj1zQ8AXNr9hfC7R5je0bqDYyKls~pq5W1gS9JlXu5di2JqPVNFkvoiN-2aL7dY5N8hUj3aZ~HJPc5xPadbPtO5DQtZcRLGY5aG3opRYPw6HSQsY4r223W7A9iWAXUgZU92KzZPPCjheSEjiUVTupyty5vnCJ9prQLr2OsLWkz2bLey8okyYi21wg9mgnCAKM2dxA__&Key-Pair-Id=APKAINTVSUGEWH5XD5UA");
+		background-size: cover;
+		background-repeat: no-repeat;
+		background-position: center center;
+		left: 338px;
+		width: 90px;
+		top: 8px;
+		height: 116px;
+	}
+ 
+	/* DIRECTORATE OF HIGHER EDUCATION, */
+	#n20_0 {
+		font-family: Poppins;
+		font-size: 13px;
+		font-weight: 400;
+		letter-spacing: 0px;
+		color: rgb(0, 0, 0);
+		vertical-align: middle;
+		justify-content: flex-start;
+		width: 236px;
+		transform: translate(0px, 0px);
+		line-height: 15.2344px;
+		height: 16px;
+		left: 439px;
+		top: 46px;
+	}
+ 
+	/* GOVERNMENT OF GOA,INDIA */
+	#n20_4 {
+		font-family: Poppins;
+		font-size: 12px;
+		font-weight: 400;
+		letter-spacing: 0px;
+		color: rgb(0, 0, 0);
+		vertical-align: middle;
+		justify-content: flex-start;
+		width: 164px;
+		transform: translate(0px, 0px);
+		line-height: 14.0625px;
+		height: 16px;
+		left: 475px;
+		top: 89px;
+	}
+ 
+	/* PORVORIM - GOA */
+	#n20_3 {
+		font-family: Poppins;
+		font-size: 13px;
+		font-weight: 400;
+		letter-spacing: 0px;
+		color: rgb(0, 0, 0);
+		vertical-align: middle;
+		justify-content: flex-start;
+		width: 119px;
+		transform: translate(0px, 0px);
+		line-height: 15.2344px;
+		height: 16px;
+		left: 498px;
+		top: 61px;
+	}
+ 
+	/* Line 6 */
+	#n20_2 {
+		left: 436px;
+		width: 236px;
+		top: 85px;
+		height: 0px;
+	}
